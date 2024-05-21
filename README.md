@@ -1,8 +1,7 @@
-### 墨鱼自用安卓APK资源
+### 安卓APK资源 由[@ddgksf2013](https://t.me/ddgksf2021)收集
 * 更新时间：2024-05-11
 * 备份一些apkUrl
   
-### Tg 通知頻道 👉🏻[Cuttlefishの自留地](https://t.me/ddgksf2021)👈🏻  
 
 | 名称 | 类型  | 资源地址 | 备注 |
 | :----- | :----- | :----- | :----- |
@@ -22,5 +21,4 @@
 
 ```diff
 + 通知频道： https://t.me/ddgksf2021
-- 投稿助手： https://t.me/ddgksf2013_bot
 ```
